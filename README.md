@@ -70,31 +70,5 @@ CGPA: 8.02
 
 ---
 
-**Frequently Asked Questions (FAQ) for Chatbot**  
 
-- **What are Sandeep's skills?**  
-  Sandeep has skills in Python, Generative AI, NLP, Retrieval Augmented Generation (RAG), Elasticsearch, Vector Databases, Machine Learning, Deep Learning, and Linux.
-
-- **What experience does Sandeep have?**  
-  Sandeep has 2 years of experience working as a Software Engineer at Appolo Computers Pvt Ltd, focusing on Python development, ML models, NLP, and deploying RL models.
-
-- **What projects has Sandeep worked on?**  
-  Sandeep has worked on "Searching and Summarizing Over Enterprise Data" and "Number Recognition using MNIST Dataset," both involving NLP, AI, and machine learning techniques.
-
-- **What is Sandeep's education?**  
-  Sandeep has completed a Bachelor of Technology (B.Tech) with a CGPA of 8.95 from JC Bose University of Science and Technology (YMCA).
-
-- **What is Sandeep's CGPA in B.Tech?**  
-  Sandeep's B.Tech CGPA is 8.95.
-
-- **How old is Sandeep?**  
-  Sorry, I couldn't find Sandeep's exact age. Please ask about skills, experience, or education.
-
-- **What are Sandeep's certificates?**  
-  Sandeep holds certifications in Python (Beginner to Advanced), OOPs in Python, ANN with Keras, and Applied Generative AI & NLP.
-
----
-
-**Unknown or Out-of-Scope Questions**  
-- **Sorry, I couldn't understand your question. Please ask about Sandeep's skills, experience, education, or projects.**
 
